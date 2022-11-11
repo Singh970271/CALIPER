@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "name": "Pushkar",
+      "age": 24,
+      "gender": "Male",
+      "Medicine": "Sumo",
+      "quantity": "10"
+    },
+    {
+      "name": "shaquib",
+      "age": "25",
+      "gender": "Male",
+      "Medicine": "dolo",
+      "quantity": "20",
+      "id": 3
+    },
+    {
+      "name": "shiuvi",
+      "age": "56",
+      "gender": "Female",
+      "Medicine": "dolo",
+      "quantity": "25",
+      "id": 4
+    },
+    {
+      "name": "radhe",
+      "age": "25",
+      "gender": "male",
+      "Medicine": "dolo",
+      "quantity": "12",
+      "id": 5
+    },
+    {
+      "name": "rhdhd",
+      "age": "52",
+      "gender": "female",
+      "Medicine": "nice",
+      "quantity": "50",
+      "id": 6
+    },
+    {
+      "name": "rhdhd",
+      "age": "52",
+      "gender": "female",
+      "Medicine": "nice",
+      "quantity": "50",
+      "id": 7
+    },
+    {
+      "name": "rhdhd",
+      "age": "52",
+      "gender": "female",
+      "Medicine": "nice",
+      "quantity": "50",
+      "id": 8
+    },
+    {
+      "name": "rhdhd",
+      "age": "52",
+      "gender": "female",
+      "Medicine": "nice",
+      "quantity": "50",
+      "id": 9
+    }
+  ]
+}
